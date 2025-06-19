@@ -1,0 +1,6 @@
+[package]
+name = "noir_solidity"
+type = "bin"
+authors = [""]
+
+[dependencies]
